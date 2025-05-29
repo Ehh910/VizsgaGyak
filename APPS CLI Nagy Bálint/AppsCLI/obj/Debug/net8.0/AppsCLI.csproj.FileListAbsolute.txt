@@ -1,0 +1,14 @@
+C:\Users\C20NagyB\source\repos\AppsCLI\bin\Debug\net8.0\AppsCLI.exe
+C:\Users\C20NagyB\source\repos\AppsCLI\bin\Debug\net8.0\AppsCLI.deps.json
+C:\Users\C20NagyB\source\repos\AppsCLI\bin\Debug\net8.0\AppsCLI.runtimeconfig.json
+C:\Users\C20NagyB\source\repos\AppsCLI\bin\Debug\net8.0\AppsCLI.dll
+C:\Users\C20NagyB\source\repos\AppsCLI\bin\Debug\net8.0\AppsCLI.pdb
+C:\Users\C20NagyB\source\repos\AppsCLI\obj\Debug\net8.0\AppsCLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C20NagyB\source\repos\AppsCLI\obj\Debug\net8.0\AppsCLI.AssemblyInfoInputs.cache
+C:\Users\C20NagyB\source\repos\AppsCLI\obj\Debug\net8.0\AppsCLI.AssemblyInfo.cs
+C:\Users\C20NagyB\source\repos\AppsCLI\obj\Debug\net8.0\AppsCLI.csproj.CoreCompileInputs.cache
+C:\Users\C20NagyB\source\repos\AppsCLI\obj\Debug\net8.0\AppsCLI.dll
+C:\Users\C20NagyB\source\repos\AppsCLI\obj\Debug\net8.0\refint\AppsCLI.dll
+C:\Users\C20NagyB\source\repos\AppsCLI\obj\Debug\net8.0\AppsCLI.pdb
+C:\Users\C20NagyB\source\repos\AppsCLI\obj\Debug\net8.0\AppsCLI.genruntimeconfig.cache
+C:\Users\C20NagyB\source\repos\AppsCLI\obj\Debug\net8.0\ref\AppsCLI.dll
