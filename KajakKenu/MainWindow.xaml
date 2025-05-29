@@ -1,0 +1,30 @@
+﻿<Window x:Class="KajakKenu.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KajakKenu"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="555" Width="1202">
+    <Grid>
+        <DataGrid x:Name="DataGridhaha" HorizontalAlignment="Left" Height="232" Margin="29,38,0,0" VerticalAlignment="Top" AutoGenerateColumns="False" Width="auto">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Név" Binding="{Binding Nev}"/>
+                <DataGridTextColumn Header="Azonosító" Binding="{Binding Azonosito}" />
+                <DataGridTextColumn Header="Tipus" Binding="{Binding Tipus}" />
+                <DataGridTextColumn Header="Elvitel Óra" Binding="{Binding ElvitelOra}" />
+                <DataGridTextColumn Header="Elivtel perc" Binding="{Binding ElvitelPerc}" />
+                <DataGridTextColumn Header="Visszahozás Óra" Binding="{Binding VisszaOra}" />
+                <DataGridTextColumn Header="Visszahozás Perc" Binding="{Binding VisszaPerc}" />
+            </DataGrid.Columns>
+        </DataGrid>
+        <ComboBox x:Name="ComboOra" HorizontalAlignment="Left" Height="48" Margin="601,79,0,0" VerticalAlignment="Top" Width="176">
+            
+        </ComboBox>
+        <ComboBox x:Name="ComboPerc" HorizontalAlignment="Left" Height="48" Margin="601,180,0,0" VerticalAlignment="Top" Width="176"/>
+        <DataGrid HorizontalAlignment="Left" Height="231" Margin="846,38,0,0" VerticalAlignment="Top" Width="288"/>
+        <Label Content="Elvitel órája" HorizontalAlignment="Left" Height="46" Margin="603,28,0,0" VerticalAlignment="Top" Width="174"/>
+        <Label Content="Elvitel perce" HorizontalAlignment="Left" Height="48" Margin="601,130,0,0" VerticalAlignment="Top" Width="174"/>
+
+    </Grid>
+</Window>
