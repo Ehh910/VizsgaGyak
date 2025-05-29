@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\C20NagyB\\source\\repos\\Oscar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E18506-F461-4A09-A6AC-92D42BE1296B}|Oscar\\Oscar.csproj|c:\\users\\c20nagyb\\source\\repos\\oscar\\oscar\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D3E18506-F461-4A09-A6AC-92D42BE1296B}|Oscar\\Oscar.csproj|solutionrelative:oscar\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E18506-F461-4A09-A6AC-92D42BE1296B}|Oscar\\Oscar.csproj|c:\\users\\c20nagyb\\source\\repos\\oscar\\oscar\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E18506-F461-4A09-A6AC-92D42BE1296B}|Oscar\\Oscar.csproj|solutionrelative:oscar\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E18506-F461-4A09-A6AC-92D42BE1296B}|Oscar\\Oscar.csproj|c:\\users\\c20nagyb\\source\\repos\\oscar\\oscar\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E18506-F461-4A09-A6AC-92D42BE1296B}|Oscar\\Oscar.csproj|solutionrelative:oscar\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Film.cs",
+              "DocumentMoniker": "C:\\Users\\C20NagyB\\source\\repos\\Oscar\\Oscar\\Film.cs",
+              "RelativeDocumentMoniker": "Oscar\\Film.cs",
+              "ToolTip": "C:\\Users\\C20NagyB\\source\\repos\\Oscar\\Oscar\\Film.cs",
+              "RelativeToolTip": "Oscar\\Film.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T09:46:46.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\C20NagyB\\source\\repos\\Oscar\\Oscar\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Oscar\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\C20NagyB\\source\\repos\\Oscar\\Oscar\\MainWindow.xaml",
+              "RelativeToolTip": "Oscar\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-07T09:44:01.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\C20NagyB\\source\\repos\\Oscar\\Oscar\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Oscar\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\C20NagyB\\source\\repos\\Oscar\\Oscar\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Oscar\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T09:43:58.967Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

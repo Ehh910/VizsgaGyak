@@ -1,0 +1,22 @@
+﻿<Window x:Class="RendszerUzemelteto.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RendszerUzemelteto"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="481" Width="800">
+    <Grid Margin="0,0,0,-6">
+        <ListBox x:Name="vizsgazoNevek" HorizontalAlignment="Left" Height="395" Margin="31,50,0,0" VerticalAlignment="Top" Width="196"/>
+        <Label x:Name="HanyEmber" Content="" HorizontalAlignment="Left" Height="40" Margin="31,5,0,0" VerticalAlignment="Top" Width="176"/>
+        <Button x:Name="SikeresesVizsgaBtn" Content="Sikeres vizsgát tett" HorizontalAlignment="Left" Height="39" Margin="400,50,0,0" VerticalAlignment="Top" Width="199" Click="SikeresesVizsgaBtn_Click"/>
+        <Label x:Name="SIkeresVizsgaLbl" Content="" HorizontalAlignment="Left" Height="39" Margin="612,50,0,0" VerticalAlignment="Top" Width="83"/>
+        <Button x:Name="EredmenyIrasTxt" Content="Eredmények álományba írása" HorizontalAlignment="Left" Height="46" Margin="372,139,0,0" VerticalAlignment="Top" Width="256" Click="EredmenyIrasTxt_Click"/>
+        <Label Content="Keresett tanulo" HorizontalAlignment="Left" Height="25" Margin="372,218,0,0" VerticalAlignment="Top" Width="147"/>
+        <TextBox x:Name="KeresettTanulo" HorizontalAlignment="Left" Height="40" Margin="372,248,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="175" TextChanged="KeresettTanulo_TextChanged"/>
+        <Label x:Name="LegjobbEredmenyeLbl" Content="" HorizontalAlignment="Left" Height="31" Margin="372,305,0,0" VerticalAlignment="Top" Width="256"/>
+        <Label x:Name="LeggyengebbErdemyeLb" Content="" HorizontalAlignment="Left" Height="33" Margin="372,352,0,0" VerticalAlignment="Top" Width="256"/>
+        <Label x:Name="SikeresVizsgatTettELbl" Content="" HorizontalAlignment="Left" Height="34" Margin="372,411,0,0" VerticalAlignment="Top" Width="256"/>
+
+    </Grid>
+</Window>

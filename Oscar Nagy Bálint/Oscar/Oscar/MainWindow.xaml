@@ -1,0 +1,34 @@
+﻿<Window x:Class="Oscar.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Oscar"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="45*"/>
+            <ColumnDefinition Width="90*"/>
+            <ColumnDefinition Width="45*"/>
+        </Grid.ColumnDefinitions>
+
+        <Label Content="Oscar-díjas filmek" HorizontalAlignment="Center" Height="30" Margin="0,10,0,0" VerticalAlignment="Top" Width="180"/>
+        <ListBox x:Name="OscarFilmek" HorizontalAlignment="Center" Height="350" Margin="0,45,0,0" VerticalAlignment="Top" Width="180"/>
+        <TextBox x:Name="KeresettSzo" Grid.Column="2" HorizontalAlignment="Center" Height="30" Margin="0,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="180"/>
+        <ListBox x:Name="KeresettSzoLb" Grid.Column="2" HorizontalAlignment="Center" Height="350" Margin="0,45,0,0" VerticalAlignment="Top" Width="180"/>
+        <TextBox x:Name="UjCim" Grid.Column="1" HorizontalAlignment="Left" Height="30" Margin="153,45,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="220"/>
+        <TextBox x:Name="UjCim_Copy" Grid.Column="1" HorizontalAlignment="Left" Height="30" Margin="153,80,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="220"/>
+        <TextBox x:Name="UjCim_Copy1" Grid.Column="1" HorizontalAlignment="Left" Height="30" Margin="153,115,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="220"/>
+        <TextBox x:Name="UjCim_Copy2" Grid.Column="1" HorizontalAlignment="Left" Height="30" Margin="153,150,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="220"/>
+        <Label Grid.Column="1" Content="Cím" HorizontalAlignment="Left" Height="30" Margin="30,45,0,0" VerticalAlignment="Top" Width="120"/>
+        <Label Grid.Column="1" Content="Év" HorizontalAlignment="Left" Height="30" Margin="30,80,0,0" VerticalAlignment="Top" Width="120"/>
+        <Label Grid.Column="1" Content="Jelölések száma" HorizontalAlignment="Left" Height="30" Margin="30,115,0,0" VerticalAlignment="Top" Width="120"/>
+        <Label Grid.Column="1" Content="Díjak száma" HorizontalAlignment="Left" Height="30" Margin="30,145,0,0" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="UjFilmButton" Grid.Column="1" Content="Új film felvétele" HorizontalAlignment="Left" Height="30" Margin="30,185,0,0" VerticalAlignment="Top" Width="343"/>
+        <Label x:Name="LegtobbDijasLbl" Grid.Column="1" Content="Film címe" HorizontalAlignment="Left" Height="30" Margin="30,275,0,0" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="LegtobbDijbtn" Grid.Column="1" Content=" Legtöbb díjat kapta" HorizontalAlignment="Left" Height="30" Margin="243,275,0,0" VerticalAlignment="Top" Width="130"/>
+        <TextBox x:Name="KeresettFilmTxtbox" Grid.Column="1" HorizontalAlignment="Left" Height="30" Margin="30,343,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="170"/>
+
+    </Grid>
+</Window>

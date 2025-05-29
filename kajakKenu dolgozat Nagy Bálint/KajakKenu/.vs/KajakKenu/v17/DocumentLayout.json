@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\C20NagyB\\source\\repos\\KajakKenu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7492BEDE-3886-41C2-BDAF-AD2FA070F092}|KajakKenuConsole\\KajakKenuConsole.csproj|c:\\users\\c20nagyb\\source\\repos\\kajakkenu\\kajakkenuconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7492BEDE-3886-41C2-BDAF-AD2FA070F092}|KajakKenuConsole\\KajakKenuConsole.csproj|solutionrelative:kajakkenuconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7492BEDE-3886-41C2-BDAF-AD2FA070F092}|KajakKenuConsole\\KajakKenuConsole.csproj|c:\\users\\c20nagyb\\source\\repos\\kajakkenu\\kajakkenuconsole\\kolcsonzesconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7492BEDE-3886-41C2-BDAF-AD2FA070F092}|KajakKenuConsole\\KajakKenuConsole.csproj|solutionrelative:kajakkenuconsole\\kolcsonzesconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D5811C3-96AB-4C0D-88D2-B3B21D058D8E}|KajakKenu\\KajakKenu.csproj|c:\\users\\c20nagyb\\source\\repos\\kajakkenu\\kajakkenu\\src\\kolcsonzes.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4D5811C3-96AB-4C0D-88D2-B3B21D058D8E}|KajakKenu\\KajakKenu.csproj|solutionrelative:kajakkenu\\src\\kolcsonzes.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D5811C3-96AB-4C0D-88D2-B3B21D058D8E}|KajakKenu\\KajakKenu.csproj|c:\\users\\c20nagyb\\source\\repos\\kajakkenu\\kajakkenu\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4D5811C3-96AB-4C0D-88D2-B3B21D058D8E}|KajakKenu\\KajakKenu.csproj|solutionrelative:kajakkenu\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D5811C3-96AB-4C0D-88D2-B3B21D058D8E}|KajakKenu\\KajakKenu.csproj|c:\\users\\c20nagyb\\source\\repos\\kajakkenu\\kajakkenu\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D5811C3-96AB-4C0D-88D2-B3B21D058D8E}|KajakKenu\\KajakKenu.csproj|solutionrelative:kajakkenu\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D5811C3-96AB-4C0D-88D2-B3B21D058D8E}|KajakKenu\\KajakKenu.csproj|c:\\users\\c20nagyb\\source\\repos\\kajakkenu\\kajakkenu\\kolcsonzes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D5811C3-96AB-4C0D-88D2-B3B21D058D8E}|KajakKenu\\KajakKenu.csproj|solutionrelative:kajakkenu\\kolcsonzes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "kolcsonzes.txt",
+              "DocumentMoniker": "C:\\Users\\C20NagyB\\source\\repos\\KajakKenu\\KajakKenu\\src\\kolcsonzes.txt",
+              "RelativeDocumentMoniker": "KajakKenu\\src\\kolcsonzes.txt",
+              "ToolTip": "C:\\Users\\C20NagyB\\source\\repos\\KajakKenu\\KajakKenu\\src\\kolcsonzes.txt",
+              "RelativeToolTip": "KajakKenu\\src\\kolcsonzes.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-24T12:58:19.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KolcsonzesCONSOLE.cs",
+              "DocumentMoniker": "C:\\Users\\C20NagyB\\source\\repos\\KajakKenu\\KajakKenuConsole\\KolcsonzesCONSOLE.cs",
+              "RelativeDocumentMoniker": "KajakKenuConsole\\KolcsonzesCONSOLE.cs",
+              "ToolTip": "C:\\Users\\C20NagyB\\source\\repos\\KajakKenu\\KajakKenuConsole\\KolcsonzesCONSOLE.cs",
+              "RelativeToolTip": "KajakKenuConsole\\KolcsonzesCONSOLE.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T12:34:46.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\C20NagyB\\source\\repos\\KajakKenu\\KajakKenuConsole\\Program.cs",
+              "RelativeDocumentMoniker": "KajakKenuConsole\\Program.cs",
+              "ToolTip": "C:\\Users\\C20NagyB\\source\\repos\\KajakKenu\\KajakKenuConsole\\Program.cs",
+              "RelativeToolTip": "KajakKenuConsole\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T12:32:11.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Kolcsonzes.cs",
+              "DocumentMoniker": "C:\\Users\\C20NagyB\\source\\repos\\KajakKenu\\KajakKenu\\Kolcsonzes.cs",
+              "RelativeDocumentMoniker": "KajakKenu\\Kolcsonzes.cs",
+              "ToolTip": "C:\\Users\\C20NagyB\\source\\repos\\KajakKenu\\KajakKenu\\Kolcsonzes.cs",
+              "RelativeToolTip": "KajakKenu\\Kolcsonzes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T11:09:25.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\C20NagyB\\source\\repos\\KajakKenu\\KajakKenu\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "KajakKenu\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\C20NagyB\\source\\repos\\KajakKenu\\KajakKenu\\MainWindow.xaml",
+              "RelativeToolTip": "KajakKenu\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-24T11:06:09.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\C20NagyB\\source\\repos\\KajakKenu\\KajakKenu\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "KajakKenu\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\C20NagyB\\source\\repos\\KajakKenu\\KajakKenu\\MainWindow.xaml.cs",
+              "RelativeToolTip": "KajakKenu\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T11:06:07.328Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

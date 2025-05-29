@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\C20NagyB\\source\\repos\\KutyaKonzol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7053370-598C-406A-9759-1B02E43751E0}|KutyaKonzol\\KutyaKonzol.csproj|c:\\users\\c20nagyb\\source\\repos\\kutyakonzol\\kutyakonzol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7053370-598C-406A-9759-1B02E43751E0}|KutyaKonzol\\KutyaKonzol.csproj|solutionrelative:kutyakonzol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7053370-598C-406A-9759-1B02E43751E0}|KutyaKonzol\\KutyaKonzol.csproj|c:\\users\\c20nagyb\\source\\repos\\kutyakonzol\\kutyakonzol\\kutya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7053370-598C-406A-9759-1B02E43751E0}|KutyaKonzol\\KutyaKonzol.csproj|solutionrelative:kutyakonzol\\kutya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7053370-598C-406A-9759-1B02E43751E0}|KutyaKonzol\\KutyaKonzol.csproj|c:\\users\\c20nagyb\\source\\repos\\kutyakonzol\\kutyakonzol\\gazda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7053370-598C-406A-9759-1B02E43751E0}|KutyaKonzol\\KutyaKonzol.csproj|solutionrelative:kutyakonzol\\gazda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7053370-598C-406A-9759-1B02E43751E0}|KutyaKonzol\\KutyaKonzol.csproj|c:\\users\\c20nagyb\\source\\repos\\kutyakonzol\\kutyakonzol\\fajta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7053370-598C-406A-9759-1B02E43751E0}|KutyaKonzol\\KutyaKonzol.csproj|solutionrelative:kutyakonzol\\fajta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7053370-598C-406A-9759-1B02E43751E0}|KutyaKonzol\\KutyaKonzol.csproj|c:\\users\\c20nagyb\\source\\repos\\kutyakonzol\\kutyakonzol\\src\\adatok.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E7053370-598C-406A-9759-1B02E43751E0}|KutyaKonzol\\KutyaKonzol.csproj|solutionrelative:kutyakonzol\\src\\adatok.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "adatok.csv",
+              "DocumentMoniker": "C:\\Users\\C20NagyB\\source\\repos\\KutyaKonzol\\KutyaKonzol\\src\\adatok.csv",
+              "RelativeDocumentMoniker": "KutyaKonzol\\src\\adatok.csv",
+              "ToolTip": "C:\\Users\\C20NagyB\\source\\repos\\KutyaKonzol\\KutyaKonzol\\src\\adatok.csv",
+              "RelativeToolTip": "KutyaKonzol\\src\\adatok.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-02-28T07:10:22.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kutya.cs",
+              "DocumentMoniker": "C:\\Users\\C20NagyB\\source\\repos\\KutyaKonzol\\KutyaKonzol\\Kutya.cs",
+              "RelativeDocumentMoniker": "KutyaKonzol\\Kutya.cs",
+              "ToolTip": "C:\\Users\\C20NagyB\\source\\repos\\KutyaKonzol\\KutyaKonzol\\Kutya.cs",
+              "RelativeToolTip": "KutyaKonzol\\Kutya.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAYwCsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T13:20:27.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gazda.cs",
+              "DocumentMoniker": "C:\\Users\\C20NagyB\\source\\repos\\KutyaKonzol\\KutyaKonzol\\Gazda.cs",
+              "RelativeDocumentMoniker": "KutyaKonzol\\Gazda.cs",
+              "ToolTip": "C:\\Users\\C20NagyB\\source\\repos\\KutyaKonzol\\KutyaKonzol\\Gazda.cs",
+              "RelativeToolTip": "KutyaKonzol\\Gazda.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T13:19:17.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Fajta.cs",
+              "DocumentMoniker": "C:\\Users\\C20NagyB\\source\\repos\\KutyaKonzol\\KutyaKonzol\\Fajta.cs",
+              "RelativeDocumentMoniker": "KutyaKonzol\\Fajta.cs",
+              "ToolTip": "C:\\Users\\C20NagyB\\source\\repos\\KutyaKonzol\\KutyaKonzol\\Fajta.cs",
+              "RelativeToolTip": "KutyaKonzol\\Fajta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T13:16:28.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\C20NagyB\\source\\repos\\KutyaKonzol\\KutyaKonzol\\Program.cs",
+              "RelativeDocumentMoniker": "KutyaKonzol\\Program.cs",
+              "ToolTip": "C:\\Users\\C20NagyB\\source\\repos\\KutyaKonzol\\KutyaKonzol\\Program.cs",
+              "RelativeToolTip": "KutyaKonzol\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T13:05:45.288Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

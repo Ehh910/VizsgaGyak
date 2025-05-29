@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\C20NagyB\\source\\repos\\SoftDrinksGUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2526772-78C6-4BBC-AB0C-A83D4B243982}|SoftDrinksGUI\\SoftDrinksGUI.csproj|c:\\users\\c20nagyb\\source\\repos\\softdrinksgui\\softdrinksgui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2526772-78C6-4BBC-AB0C-A83D4B243982}|SoftDrinksGUI\\SoftDrinksGUI.csproj|solutionrelative:softdrinksgui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2526772-78C6-4BBC-AB0C-A83D4B243982}|SoftDrinksGUI\\SoftDrinksGUI.csproj|c:\\users\\c20nagyb\\source\\repos\\softdrinksgui\\softdrinksgui\\udito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2526772-78C6-4BBC-AB0C-A83D4B243982}|SoftDrinksGUI\\SoftDrinksGUI.csproj|solutionrelative:softdrinksgui\\udito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2526772-78C6-4BBC-AB0C-A83D4B243982}|SoftDrinksGUI\\SoftDrinksGUI.csproj|c:\\users\\c20nagyb\\source\\repos\\softdrinksgui\\softdrinksgui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C2526772-78C6-4BBC-AB0C-A83D4B243982}|SoftDrinksGUI\\SoftDrinksGUI.csproj|solutionrelative:softdrinksgui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2526772-78C6-4BBC-AB0C-A83D4B243982}|SoftDrinksGUI\\SoftDrinksGUI.csproj|c:\\users\\c20nagyb\\source\\repos\\softdrinksgui\\softdrinksgui\\src\\softdrinks.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C2526772-78C6-4BBC-AB0C-A83D4B243982}|SoftDrinksGUI\\SoftDrinksGUI.csproj|solutionrelative:softdrinksgui\\src\\softdrinks.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "softDrinks.txt",
+              "DocumentMoniker": "C:\\Users\\C20NagyB\\source\\repos\\SoftDrinksGUI\\SoftDrinksGUI\\src\\softDrinks.txt",
+              "RelativeDocumentMoniker": "SoftDrinksGUI\\src\\softDrinks.txt",
+              "ToolTip": "C:\\Users\\C20NagyB\\source\\repos\\SoftDrinksGUI\\SoftDrinksGUI\\src\\softDrinks.txt",
+              "RelativeToolTip": "SoftDrinksGUI\\src\\softDrinks.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-04T10:43:14.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Udito.cs",
+              "DocumentMoniker": "C:\\Users\\C20NagyB\\source\\repos\\SoftDrinksGUI\\SoftDrinksGUI\\Udito.cs",
+              "RelativeDocumentMoniker": "SoftDrinksGUI\\Udito.cs",
+              "ToolTip": "C:\\Users\\C20NagyB\\source\\repos\\SoftDrinksGUI\\SoftDrinksGUI\\Udito.cs",
+              "RelativeToolTip": "SoftDrinksGUI\\Udito.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wBwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T10:42:42.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\C20NagyB\\source\\repos\\SoftDrinksGUI\\SoftDrinksGUI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "SoftDrinksGUI\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\C20NagyB\\source\\repos\\SoftDrinksGUI\\SoftDrinksGUI\\MainWindow.xaml",
+              "RelativeToolTip": "SoftDrinksGUI\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-04T10:30:48.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\C20NagyB\\source\\repos\\SoftDrinksGUI\\SoftDrinksGUI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SoftDrinksGUI\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\C20NagyB\\source\\repos\\SoftDrinksGUI\\SoftDrinksGUI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "SoftDrinksGUI\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAYwD8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T10:30:46.76Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
