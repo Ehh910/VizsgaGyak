@@ -1,0 +1,14 @@
+C:\Users\C20NagyB\source\repos\AutoKonzol\bin\Debug\net8.0\AutoKonzol.exe
+C:\Users\C20NagyB\source\repos\AutoKonzol\bin\Debug\net8.0\AutoKonzol.deps.json
+C:\Users\C20NagyB\source\repos\AutoKonzol\bin\Debug\net8.0\AutoKonzol.runtimeconfig.json
+C:\Users\C20NagyB\source\repos\AutoKonzol\bin\Debug\net8.0\AutoKonzol.dll
+C:\Users\C20NagyB\source\repos\AutoKonzol\bin\Debug\net8.0\AutoKonzol.pdb
+C:\Users\C20NagyB\source\repos\AutoKonzol\obj\Debug\net8.0\AutoKonzol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C20NagyB\source\repos\AutoKonzol\obj\Debug\net8.0\AutoKonzol.AssemblyInfoInputs.cache
+C:\Users\C20NagyB\source\repos\AutoKonzol\obj\Debug\net8.0\AutoKonzol.AssemblyInfo.cs
+C:\Users\C20NagyB\source\repos\AutoKonzol\obj\Debug\net8.0\AutoKonzol.csproj.CoreCompileInputs.cache
+C:\Users\C20NagyB\source\repos\AutoKonzol\obj\Debug\net8.0\AutoKonzol.dll
+C:\Users\C20NagyB\source\repos\AutoKonzol\obj\Debug\net8.0\refint\AutoKonzol.dll
+C:\Users\C20NagyB\source\repos\AutoKonzol\obj\Debug\net8.0\AutoKonzol.pdb
+C:\Users\C20NagyB\source\repos\AutoKonzol\obj\Debug\net8.0\AutoKonzol.genruntimeconfig.cache
+C:\Users\C20NagyB\source\repos\AutoKonzol\obj\Debug\net8.0\ref\AutoKonzol.dll
